@@ -1,19 +1,14 @@
 # git-workshop
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4 
-##### Heading 5
-###### Heading 6 
+# This is our first Github Workshop
 
-- This is our first Github Workshop
+## Description
 
-`preferable for writing code`
+## Features
 
-- Task 1
-- Task 2
-- Task 3
-    - Task 3.1
-    - Task 3.2
-- Task 4 
+## Installation 
+- Clone the repository: `git clone https://github.com/username/project.git`
+- Navigate to the project directory: `cd project`
+- Install dependencies: `npm install`
+
+## Usage
