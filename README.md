@@ -11,4 +11,4 @@
 - Navigate to the project directory: `cd project`
 - Install dependencies: `npm install`
 
-## Usage
+## Usages
